@@ -1,8 +1,8 @@
 let automobiles = ["car", "truck", "motorcycle"];
-// add to END
+// add to end
 automobiles.push("airplane", "skateboard");
 // add to FRONT
-automobiles.unshift("bike', 'helicopter");
+automobiles.unshift("helicopter", "bike");
 // copy using temmplate string
 let automobilesCopy = `${automobiles}`;
 // remove LAST item
