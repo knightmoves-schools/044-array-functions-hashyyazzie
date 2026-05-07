@@ -1,6 +1,6 @@
 let automobiles = ["car", "truck", "motorcycle"];
 automobiles.push("airplane", "skateboard");
-automobiles.unshift("helicopter", "bike");
+automobiles.unshift("bike", "helicopter");
 let automobilesCopy = `${automobiles}`;
 automobiles.pop();
 automobiles.shift();
